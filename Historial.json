@@ -1,0 +1,21 @@
+[
+    {
+      "jugador1": "Carlos",
+      "jugador2": "Ana",
+      "resultado": "Finalizada",
+      "ganador": "Carlos"
+    },
+    {
+      "jugador1": "Luis",
+      "jugador2": "Marta",
+      "resultado": "Finalizada",
+      "ganador": "Marta"
+    },
+    {
+      "jugador1": "Juan",
+      "jugador2": "Sofía",
+      "resultado": "Finalizada",
+      "ganador": null
+    }
+  ]
+  
